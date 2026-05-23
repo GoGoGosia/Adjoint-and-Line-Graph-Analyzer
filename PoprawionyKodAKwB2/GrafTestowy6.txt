@@ -1,0 +1,18 @@
+A B C D E F G H I J K L M N O P Q
+A B e0
+A C e1
+B D e2
+C D e3
+D E e4
+E F e5
+F G e6
+G D e7
+H I e8
+I J e9
+J H e10
+K L e11
+L M e12
+M N e13
+N O e14
+O P e15
+P Q e16
